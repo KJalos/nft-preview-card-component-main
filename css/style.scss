@@ -1,7 +1,15 @@
+// Colors
+// -------
+// Primary
+$color-blue-soft:hsl(215,51%,70%);
+$color-cyan:hsl(178,100%,50%);
+// Neutral
+$color-blue-dark-main:hsl(217, 54%, 11%);
+$color-dark-blue-card: hsl(216, 50%, 16%);
 
 
-body {
+.container {
     font-size: 18px;
-    font-family: 'Comfortaa';
-    background-color: ;
+    font-family: 'Comfortaa', cursive;;
+    background-color: $color-blue-dark-main;
 }
